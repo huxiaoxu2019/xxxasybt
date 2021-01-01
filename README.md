@@ -1,2 +1,2 @@
 # xxxasybt
-信息学奥赛一本通 题目答案
+The solutions for 《信息学奥赛一本通（C++）》
